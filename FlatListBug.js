@@ -1,0 +1,1 @@
+This error occurs when using the FlatList component in React Native and trying to render items that contain dynamic styles based on state changes.  The state changes, but the FlatList doesn't re-render correctly, resulting in stale styles. This usually occurs when the style is deeply nested or involves complex calculations.
